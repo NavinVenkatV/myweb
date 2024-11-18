@@ -4,7 +4,7 @@ import { Button } from './Ui/Movingborder'
 
 function Experience() {
   return (
-    <div className='text-white py-20 text-3xl md:text-4xl lg:text-5xl text-center' id='experience'>
+    <div className='text-white py-20 text-3xl md:text-4xl lg:text-5xl text-center font-bold' id='experience'>
       <h1 className='items-center'>My {' '} <span className='text-purple'>Work Experience</span></h1>
       <div className='grid w-full mt-12 lg:grid-cols-4 grid-cols-1 gap-10'>
         {workExperience.map((exp)=>(

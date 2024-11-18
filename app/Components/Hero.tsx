@@ -38,9 +38,9 @@ function Hero() {
           <p className='text-white text-center md:tracking-wider text-sm md:text-lg lg:text-2xl mb-4'>
             Hi, I&apos;m Navin Venkat a full stack web developer based in India
           </p>
-          <a href="#about">+
+          <a href="https://drive.google.com/file/d/1qyW6j0rh2nRE7z8h_rW10QEg1Mg-8lNl/view?usp=drivesdk">+
             <MagicButton   
-            title='Explore my Works'
+            title='Click for Resume'
             icon={<FaLocationArrow/>}
             position='right'
             />
